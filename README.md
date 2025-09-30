@@ -1,6 +1,6 @@
-# nextjs-app
+# nextamin
 
-Next.js Web Application
+Essential nutrients for your Next.js applications
 
 # Introduction 
 
